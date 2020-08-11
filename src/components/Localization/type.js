@@ -1,0 +1,2 @@
+export const SET_LOCALIZATION = "SET_LOCALIZATION";
+export const SET_COUNTRY = "SET_COUNTRY";

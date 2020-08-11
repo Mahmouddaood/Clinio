@@ -1,0 +1,2 @@
+export const GET_FAV_LIST = "GET_FAV_LIST";
+export const GET_FAV_LIST_FINISHED = "GET_FAV_LIST_FINISHED";
